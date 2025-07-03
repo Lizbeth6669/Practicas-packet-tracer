@@ -1,0 +1,19 @@
+Cors
+¿Qué hace?
+Permite o restringe el acceso a recursos del servidor desde dominios diferentes.
+¿Ejemplo de uso?
+Esencial cuando tienes el frontend (por ejemplo, React) corriendo en un dominio y el backend (Node.js/Express) en otro.
+
+Express
+¿Qué hace?
+Framework minimalista para construir servidores web con Node.js. Simplifica la gestión de rutas, peticiones, middleware, etc.
+
+Mongoose
+¿Qué hace?
+Biblioteca para interactuar con bases de datos MongoDB en Node.js. Proporciona una capa de modelos (schemas) y validación.
+
+
+Dotenv
+¿Qué hace?
+Carga variables de entorno desde un archivo .env al entorno (process.env).
+ Muy útil para gestionar configuraciones sensibles (API keys, conexiones a BD, etc).
